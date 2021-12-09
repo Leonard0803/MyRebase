@@ -3,6 +3,7 @@
 dev 第一次修改
 dev 第二次修改
 
+<<<<<<< HEAD
 dev 在dev-preview分支rebase后做了第1次修改
 dev 在dev-preview分支rebase后做了第2次修改
 
@@ -12,3 +13,6 @@ devpreview  第一次修改
 devpreview  第一次修改
 devpreview  第二次修改
 
+=======
+devpreview  第一次修改
+>>>>>>> 13a92d2 (Revert "no message")
